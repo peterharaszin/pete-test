@@ -1,4 +1,6 @@
 pete-test
 =========
 
-first test repo
+* first test repo
+* asdasd
+* qeqwe
